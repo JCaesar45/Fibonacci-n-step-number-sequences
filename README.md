@@ -20,6 +20,7 @@ textnexus-fibonacci/
 ├── index.html          ← Premium web experience
 ├── fib-luc.ts          ← TypeScript implementation
 ├── FibLuc.java         ← Java implementation
+├── FibLuc.py           ← Python implementation
 ├── README.md
 Math References (APA)
 Noe, T. D. (2005). Primes in Fibonacci n-step and Lucas n-step sequences. Journal of Integer Sequences, 8(05.3.3). https://cs.uwaterloo.ca/journals/JIS/VOL8/Noe/noe5.pdf
